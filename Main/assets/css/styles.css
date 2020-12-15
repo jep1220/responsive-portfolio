@@ -22,7 +22,7 @@ main {
 
 /* create styles for use for all white main boxes */
 .block {
-  background-color: #fff;
+  background-color: rgb(201, 192, 192);
 
   padding: 30px;
   margin-bottom: 30px;
@@ -100,7 +100,7 @@ main {
   height: 60px;
 
   /* Visual */
-  background-color: #666;
+  background-color: rgb(102, 102, 102);
 }
 
 .text-muted-footer {
