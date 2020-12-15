@@ -100,7 +100,7 @@ main {
   height: 60px;
 
   /* Visual */
-  background-color: rgb(102, 102, 102);
+  background-color: rgb(168, 166, 166);
 }
 
 .text-muted-footer {
@@ -117,7 +117,7 @@ main {
   padding-top: 3px;
 
   /* Visual */
-  background-color: #4aaaa5;
+  background-color: #3e8b88;
 }
 /* END FOOTER */
 /* --- END STYLES FOR ALL PAGES --- */
@@ -132,7 +132,7 @@ main {
   /* Typography */
   font-size: 32px;
   font-weight: bold;
-  color: #4aaaa5;
+  color: #316e6b;
 }
 
 #about-image {
