@@ -22,7 +22,7 @@ main {
 
 /* create styles for use for all white main boxes */
 .block {
-  background-color: rgb(201, 192, 192);
+  background-color: rgb(122, 122, 122);
 
   padding: 30px;
   margin-bottom: 30px;
@@ -54,7 +54,7 @@ main {
 }
 
 .navbar {
-  background: white;
+  background: rgb(163, 160, 160);
   border: none;
 }
 
