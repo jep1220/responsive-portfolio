@@ -4,7 +4,10 @@ body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 
   /* Visual */
-  background-image: url("../imgs/ignasi_pattern_s.png");
+  background-image: url("../imgs/honeycomb.png");
+  background-color: rgba(163, 161, 161, 0.836)
+  
+  
 }
 
 html {
@@ -22,9 +25,9 @@ main {
 
 /* create styles for use for all white main boxes */
 .block {
-  background-color: rgb(122, 122, 122);
+  background-color: rgb(212, 199, 199);
 
-  padding: 30px;
+  padding: 90px;
   margin-bottom: 30px;
 }
 
@@ -42,15 +45,15 @@ main {
   /* Typography */
   font-size: 24px;
   font-weight: bold;
-  color: #fff;
+  color: rgb(0, 0, 0);
 
   /* Visual */
-  background: #4aaaa5;
+  background: #89bebc00;
 }
 
 /* override bootstrap hover color and border */
 .navbar-default .navbar-nav > li > a:hover {
-  color: #4aaaa5;
+  color: #f10000;
 }
 
 .navbar {
