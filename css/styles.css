@@ -45,7 +45,7 @@ main {
   /* Typography */
   font-size: 24px;
   font-weight: bold;
-  color: rgb(0, 0, 0);
+  color: rgb(105, 98, 98);
 
   /* Visual */
   background: #89bebc00;
@@ -143,7 +143,7 @@ main {
   float: left;
 
   /* Box-model */
-  width: 200px;
+  width: 600px;
   margin: 0 20px 10px 0;
 }
 /* END ABOUT-ME PAGE */
