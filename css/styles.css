@@ -25,7 +25,7 @@ main {
 
 /* create styles for use for all white main boxes */
 .block {
-  background-color: rgb(212, 199, 199);
+  background-color: rgba(141, 141, 141, 0.562);
 
   padding: 90px;
   margin-bottom: 30px;
@@ -33,7 +33,7 @@ main {
 
 .block-header {
   /* Typography */
-  color: #4aaaa5;
+  color: #000000;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
 }
@@ -45,10 +45,10 @@ main {
   /* Typography */
   font-size: 24px;
   font-weight: bold;
-  color: rgb(105, 98, 98);
+  color: rgb(14, 13, 13);
 
   /* Visual */
-  background: #89bebc00;
+  background: #00000000;
 }
 
 /* override bootstrap hover color and border */
