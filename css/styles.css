@@ -224,7 +224,7 @@ main {
   margin-left: -60px;
 }
 
-
+/*for contact cards*/
 .card2 {
   position: center;
   display: -webkit-box;
@@ -255,3 +255,61 @@ main {
   margin-left: 100px;
   
 }
+
+
+/*for movie recommender card*/
+.movcard {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: .25rem;
+}
+
+.card-img-top {
+  height: 149px;
+  width: 100%;
+  border-top-left-radius: calc(.25rem - 1px);
+  border-top-right-radius: calc(.25rem - 1px);
+  object-fit: cover;
+}
+
+img {
+  vertical-align: middle;
+  border-style: none;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+}
+
+/*for movie recommender card*/
+.fitcard {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: .25rem;
+  margin-left: 400px;
+  margin-top: -363px;
+}
+
+
